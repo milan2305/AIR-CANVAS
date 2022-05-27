@@ -1,0 +1,2 @@
+# AIR-CANVAS
+This is a simple project based on simple computer vision and complex mathematics, that enable us to write in the air with the use of finger . This project is made to find an alternative of the costly screen that are being used to write in the online teaching center, that they need to have some tabs to write, but with the use of the virtual writing pad, classes can run smoothly with the help of basic video devices. coz it will also enable us to write in the running on live video itself.
